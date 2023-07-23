@@ -440,7 +440,7 @@ header {
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 783px) {
 	header {
 		padding: 11px 40px;
 	}
