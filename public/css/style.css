@@ -108,7 +108,7 @@ header {
 	width: 100%;
 	min-height: 100vh;
 	position: relative;
-	background: url(/public/img/car_website.png);
+	background: url(../img/car_website.png);
 	background-repeat: no-repeat;
 	background-position: center right;
 	background-size: cover;
@@ -185,4 +185,17 @@ header {
 
 .form-container form .btn:hover {
 	background-color: var(--main-color);
+}
+
+.heading {
+	text-align: center;
+}
+
+.heading span {
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.heading h1 {
+	font-size: 2rem;
 }
