@@ -146,7 +146,7 @@ header {
 	align-items: center;
 	gap: 1rem;
 	position: absolute;
-	bottom: 4rem;
+	bottom: 2rem;
 	left: 100px;
 	background: #fff;
 	padding: 20px;
@@ -437,6 +437,7 @@ header {
 	.form-container form {
 		bottom: 0.2rem;
 		left: 40px;
+		padding: 0.9rem;
 	}
 }
 
